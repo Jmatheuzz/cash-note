@@ -1,2 +1,2 @@
-# mtutorials
-Um aplicativo React Native voltado para tutoriais de TI
+# Cash Note
+Um aplicativo React Native voltado para finanças pessoais.
